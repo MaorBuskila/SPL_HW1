@@ -90,9 +90,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
@@ -145,7 +147,7 @@
       <workItem from="1637848888190" duration="87000" />
       <workItem from="1637926458037" duration="7882000" />
       <workItem from="1637938011821" duration="5256000" />
-      <workItem from="1638005085213" duration="4228000" />
+      <workItem from="1638005085213" duration="4636000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1637522240214</created>
@@ -223,7 +225,13 @@
       <option name="presentableId" value="LOCAL‎00011" />
       <updated>1637927091421</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL‎00012" summary="to do:&#10;backup &amp; restore&#10;Rule of 5&#10;fixing string">
+      <created>1638019602620</created>
+      <option name="number" value="LOCAL‎00012" />
+      <option name="presentableId" value="LOCAL‎00012" />
+      <updated>1638019602620</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
